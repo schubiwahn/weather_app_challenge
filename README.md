@@ -5,7 +5,7 @@ A new Flutter UI challenge of a small weather app making use of an API.
 
 
 ## Design:
-The design was gotten from [Figma](o1QhElHpIxgLopr6XslcAg==y8YUhbB7ZFWp8KVQ)
+The design was gotten from [Figma](https://www.figma.com/community/file/1100826294536456295/weather-app-ui-design)
 You can simply make a copy of the design to your drafts to have full access of the assets.
 Note: This is for educational purpose only. 
 
